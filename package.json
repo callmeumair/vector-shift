@@ -17,5 +17,9 @@
     "url": "https://github.com/callmeumair/vector-shift/issues"
   },
   "homepage": "https://github.com/callmeumair/vector-shift#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "reactflow": "^11.11.4",
+    "styled-components": "^6.1.18"
+  }
 }
