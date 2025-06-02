@@ -1,1 +1,2 @@
-console.log('Vector Shift is running! 🚀'); 
+// This file is intentionally empty as it's just a placeholder
+// The actual application entry point is in frontend/src/index.js 
